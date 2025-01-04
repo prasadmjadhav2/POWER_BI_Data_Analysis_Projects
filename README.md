@@ -1,3 +1,5 @@
+!["POWER BI"](https://github.com/prasadmjadhav2/POWER_BI_Data_Analysis_Projects/blob/main/powerbi_logo.png)
+
 # POWER BI Data Analysis Projects
 
 ## 1. Porter Data Analysis using POWER BI
